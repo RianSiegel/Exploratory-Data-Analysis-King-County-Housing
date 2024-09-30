@@ -1,0 +1,23 @@
+# Column Names and descriptions for King County Housing Dataset
+
+- **id** - unique identifier of a house
+- **dateDate** - date a house was sold
+- **pricePrice** - prediction target
+- **bedroomsNumber** - number of bedrooms
+- **bathroomsNumber** - number of bathrooms
+- **sqft_livingsquare** - square footage of the house
+- **sqft_lotsquare** - square footage of the lot
+- **floorsTotal** - number of floors
+- **waterfront** - house at waterfront y/n
+- **view** - quality of view
+- **condition** - how good the condition is (overall)
+- **grade** - overall grade given to the housing unit, based on King County grading system
+- **sqft_above** - square footage of house apart from basement
+- **sqft_basement** - square footage of the basement
+- **yr_built** - year constructed
+- **yr_renovated** - year when house was renovated
+- **zipcode** - zipcode
+- **lat** - latitude coordinate
+- **long** - longitude coordinate
+- **sqft_living15** - the square footage of interior housing living space of the nearest 15 neighbors
+- **sqft_lot15** - the square footage of the land lots of the nearest 15 neighbors
