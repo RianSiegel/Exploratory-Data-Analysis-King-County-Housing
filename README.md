@@ -1,4 +1,4 @@
-# Exploratory-Data-Analysis-King-County-Housing
+# Exploratory Data Analysis: King County Housing
 
 The purpose of the data analysis was exploring sales data with data analysis and visualization techniques and the presentation of results to a client.
 
